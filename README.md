@@ -34,7 +34,7 @@ In short: ratings are similar either way, but businesses without a website are f
 
 ## Dashboard
 
-The Tableau workbook (`Business Opportunity Dashboard.twbx`) highlights the businesses with the highest opportunity, built from `source for tableau.xlsx`.
+The Tableau workbook (`Business Opportunity Dashboard.twbx`) highlights the businesses with the highest opportunity, built from `source_for_tableau.xlsx`.
 
 ## Limitations
 
@@ -47,7 +47,7 @@ The Tableau workbook (`Business Opportunity Dashboard.twbx`) highlights the busi
 
 - `Business opportunity.ipynb`: cleaning, exploratory analysis and hypothesis tests (Python).
 - `Business Opportunity Dashboard.twbx`: Tableau dashboard.
-- `source for tableau.xlsx`: cleaned dataset used by the dashboard.
+- `source_for_tableau.xlsx`: cleaned dataset used by the dashboard.
 
 ## Tools
 
